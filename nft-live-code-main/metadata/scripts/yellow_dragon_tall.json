@@ -1,0 +1,23 @@
+{
+    "description": "A cute yellow dragon with a few tufts of curly hair is holding a cake jar",
+    "image": "ipfs://bafkreihmpkm5ld6g4kqswacy5xe6wph3th2ludqk4q7gabxhjnokjrmgo4",
+    "name": "Cute Tall Yellow Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Fire,Gold"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.4"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60"
+        }
+    ]
+}

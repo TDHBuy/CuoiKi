@@ -1,0 +1,23 @@
+{
+    "description": "A cute dragon with a white face and scales of that color but padded with a set of sparkling blue scales",
+    "image": "ipfs://bafkreia56v62c6od46c5glchq56vyvc46p3beqnegkodrjyzi6udofomg4",
+    "name": "Cute Red Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Fire,Wind"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "50"
+        }
+    ]
+}

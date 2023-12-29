@@ -1,0 +1,23 @@
+{
+    "description": "A cute dragon with a beautiful white color adorned with a red tail ",
+    "image": "ipfs://bafkreiatph3ssflj3d5wqtjoerulk7cwhyyw3grfzed4vzei73khov3e74",
+    "name": "Cute White Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Wind"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45"
+        }
+    ]
+}

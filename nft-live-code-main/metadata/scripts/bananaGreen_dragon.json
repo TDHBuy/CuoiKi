@@ -1,0 +1,23 @@
+{
+    "description": "A fat dragon with two cute horns and blue scales",
+    "image": "ipfs://bafkreid2mqjxxfypfirtxa6huuxn3bkgvgki5xtcvjdyrpk7sfpwyk23pu",
+    "name": "Cute Banana Green Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Wood"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "A cute dragon with a crown on its forehead",
+    "image": "ipfs://bafkreieirhlv4j2xxk2tlifuq5afge2eixgqs7s3b6ejxru5fwnyutiwru",
+    "name": "Cute Green Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Wood"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.3"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30"
+        }
+    ]
+}

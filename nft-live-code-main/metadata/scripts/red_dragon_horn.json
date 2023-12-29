@@ -1,0 +1,23 @@
+{
+    "description": "A cute dragon with a red dragon horn and a white body covered in red scales ",
+    "image": "ipfs://bafkreiehb4qc462lpgqtgo5ix23fdwj3467vtdtevaxyi3yatco3ardvxe",
+    "name": "Cute Red Dragon Horn",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Fire,Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "50"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "A cute dragon with black eyes",
+    "image": "ipfs://bafkreiaa2nd3hwppcxsndsz32dunand3jc64it2ywwg56cvhmssv4qgsqy",
+    "name": "Cute Yellow Dragon",
+    "attributes": [
+        {
+            "trait_type": "Species",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Elemental",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.5"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45"
+        }
+    ]
+}
